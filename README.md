@@ -18,4 +18,4 @@ ___
 - Для просмотра текущиъ товаров и другой статистики использовать QPushButton в интерфейсе для сотрудников.
 ## Тестирование
 Тестирование программы представленно в видео на YouTube:
-![Image alt](https://memepedia.ru/wp-content/uploads/2021/02/aboba-glad-valakas.jpg)
+![Image alt]
