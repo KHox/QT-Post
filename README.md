@@ -18,4 +18,4 @@ ___
 - Для просмотра текущиъ товаров и другой статистики использовать QPushButton в интерфейсе для сотрудников.
 ## Тестирование
 Тестирование программы представленно в видео на YouTube:
-![Image alt]
+![Image alt](https://raw.githubusercontent.com/KHox/QT-Post/main/Postomat-Rebirth/img/%D0%A2%D0%92%D0%9E%D0%95%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0%20%D1%81%20(%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%BE%D0%BC%20L%2C%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F).png)
