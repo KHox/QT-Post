@@ -1,5 +1,5 @@
 <name>SVih Настольная лампа Griffin</name>
-<description>(4000 dpi чёрная)
+<description>Настольная лампа белая (металл)
 </description>
 <price>540 ₽</price>
 <link>:/img/img/SVih Настольная лампа (белая) 540р.jpg</link>

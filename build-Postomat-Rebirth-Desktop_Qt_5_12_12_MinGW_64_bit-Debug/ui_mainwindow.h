@@ -312,6 +312,12 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_3->sizePolicy().hasHeightForWidth());
         lineEdit_3->setSizePolicy(sizePolicy);
         lineEdit_3->setMinimumSize(QSize(60, 80));
+        QFont font2;
+        font2.setFamily(QString::fromUtf8("Roboto"));
+        font2.setPointSize(36);
+        font2.setBold(true);
+        font2.setWeight(75);
+        lineEdit_3->setFont(font2);
         lineEdit_3->setMaxLength(1);
         lineEdit_3->setAlignment(Qt::AlignCenter);
 
@@ -322,6 +328,7 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_6->sizePolicy().hasHeightForWidth());
         lineEdit_6->setSizePolicy(sizePolicy);
         lineEdit_6->setMinimumSize(QSize(60, 80));
+        lineEdit_6->setFont(font2);
         lineEdit_6->setMaxLength(1);
         lineEdit_6->setAlignment(Qt::AlignCenter);
 
@@ -340,6 +347,7 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_5->sizePolicy().hasHeightForWidth());
         lineEdit_5->setSizePolicy(sizePolicy);
         lineEdit_5->setMinimumSize(QSize(60, 80));
+        lineEdit_5->setFont(font2);
         lineEdit_5->setMaxLength(1);
         lineEdit_5->setAlignment(Qt::AlignCenter);
 
@@ -350,6 +358,7 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_1->sizePolicy().hasHeightForWidth());
         lineEdit_1->setSizePolicy(sizePolicy);
         lineEdit_1->setMinimumSize(QSize(60, 80));
+        lineEdit_1->setFont(font2);
         lineEdit_1->setMaxLength(1);
         lineEdit_1->setAlignment(Qt::AlignCenter);
 
@@ -372,6 +381,7 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_4->sizePolicy().hasHeightForWidth());
         lineEdit_4->setSizePolicy(sizePolicy);
         lineEdit_4->setMinimumSize(QSize(60, 80));
+        lineEdit_4->setFont(font2);
         lineEdit_4->setMaxLength(1);
         lineEdit_4->setAlignment(Qt::AlignCenter);
 
@@ -402,6 +412,7 @@ public:
         sizePolicy.setHeightForWidth(lineEdit_2->sizePolicy().hasHeightForWidth());
         lineEdit_2->setSizePolicy(sizePolicy);
         lineEdit_2->setMinimumSize(QSize(60, 80));
+        lineEdit_2->setFont(font2);
         lineEdit_2->setMaxLength(1);
         lineEdit_2->setAlignment(Qt::AlignCenter);
 
@@ -493,12 +504,12 @@ public:
         sizePolicy1.setVerticalStretch(0);
         sizePolicy1.setHeightForWidth(productHeader->sizePolicy().hasHeightForWidth());
         productHeader->setSizePolicy(sizePolicy1);
-        QFont font2;
-        font2.setFamily(QString::fromUtf8("Roboto Mono"));
-        font2.setPointSize(12);
-        font2.setBold(true);
-        font2.setWeight(75);
-        productHeader->setFont(font2);
+        QFont font3;
+        font3.setFamily(QString::fromUtf8("Roboto Mono"));
+        font3.setPointSize(12);
+        font3.setBold(true);
+        font3.setWeight(75);
+        productHeader->setFont(font3);
         productHeader->setAlignment(Qt::AlignCenter);
 
         verticalLayout_5->addWidget(productHeader);
@@ -523,10 +534,10 @@ public:
         nameLabel->setObjectName(QString::fromUtf8("nameLabel"));
         sizePolicy1.setHeightForWidth(nameLabel->sizePolicy().hasHeightForWidth());
         nameLabel->setSizePolicy(sizePolicy1);
-        QFont font3;
-        font3.setFamily(QString::fromUtf8("Roboto Mono"));
-        font3.setPointSize(10);
-        nameLabel->setFont(font3);
+        QFont font4;
+        font4.setFamily(QString::fromUtf8("Roboto Mono"));
+        font4.setPointSize(10);
+        nameLabel->setFont(font4);
 
         verticalLayout_4->addWidget(nameLabel);
 
@@ -534,7 +545,7 @@ public:
         descriptionLabel->setObjectName(QString::fromUtf8("descriptionLabel"));
         sizePolicy.setHeightForWidth(descriptionLabel->sizePolicy().hasHeightForWidth());
         descriptionLabel->setSizePolicy(sizePolicy);
-        descriptionLabel->setFont(font3);
+        descriptionLabel->setFont(font4);
         descriptionLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop);
 
         verticalLayout_4->addWidget(descriptionLabel);
@@ -553,7 +564,7 @@ public:
         sizePolicy3.setVerticalStretch(0);
         sizePolicy3.setHeightForWidth(priceLabel->sizePolicy().hasHeightForWidth());
         priceLabel->setSizePolicy(sizePolicy3);
-        priceLabel->setFont(font3);
+        priceLabel->setFont(font4);
         priceLabel->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
 
         horizontalLayout_3->addWidget(priceLabel);
@@ -617,7 +628,7 @@ public:
         verticalLayout_7->setObjectName(QString::fromUtf8("verticalLayout_7"));
         refusalHeaderLabel = new QLabel(refusalPage);
         refusalHeaderLabel->setObjectName(QString::fromUtf8("refusalHeaderLabel"));
-        refusalHeaderLabel->setFont(font2);
+        refusalHeaderLabel->setFont(font3);
         refusalHeaderLabel->setAlignment(Qt::AlignCenter);
 
         verticalLayout_7->addWidget(refusalHeaderLabel);
@@ -705,12 +716,12 @@ public:
         verticalLayout_8->setObjectName(QString::fromUtf8("verticalLayout_8"));
         warningLabel = new QLabel(warningPage);
         warningLabel->setObjectName(QString::fromUtf8("warningLabel"));
-        QFont font4;
-        font4.setFamily(QString::fromUtf8("Roboto Mono"));
-        font4.setPointSize(20);
-        font4.setBold(true);
-        font4.setWeight(75);
-        warningLabel->setFont(font4);
+        QFont font5;
+        font5.setFamily(QString::fromUtf8("Roboto Mono"));
+        font5.setPointSize(20);
+        font5.setBold(true);
+        font5.setWeight(75);
+        warningLabel->setFont(font5);
         warningLabel->setAlignment(Qt::AlignHCenter|Qt::AlignTop);
 
         verticalLayout_8->addWidget(warningLabel);
@@ -727,7 +738,7 @@ public:
         sizePolicy3.setHeightForWidth(label->sizePolicy().hasHeightForWidth());
         label->setSizePolicy(sizePolicy3);
         label->setMinimumSize(QSize(0, 16));
-        label->setFont(font3);
+        label->setFont(font4);
 
         verticalLayout_10->addWidget(label);
 
@@ -739,7 +750,7 @@ public:
         sizePolicy5.setHeightForWidth(listWidget->sizePolicy().hasHeightForWidth());
         listWidget->setSizePolicy(sizePolicy5);
         listWidget->setMinimumSize(QSize(150, 0));
-        listWidget->setFont(font3);
+        listWidget->setFont(font4);
 
         verticalLayout_10->addWidget(listWidget);
 
@@ -752,7 +763,7 @@ public:
         label_2->setObjectName(QString::fromUtf8("label_2"));
         sizePolicy1.setHeightForWidth(label_2->sizePolicy().hasHeightForWidth());
         label_2->setSizePolicy(sizePolicy1);
-        label_2->setFont(font3);
+        label_2->setFont(font4);
 
         verticalLayout_11->addWidget(label_2);
 
@@ -774,9 +785,9 @@ public:
         ArrivalDateLabel->setObjectName(QString::fromUtf8("ArrivalDateLabel"));
         sizePolicy1.setHeightForWidth(ArrivalDateLabel->sizePolicy().hasHeightForWidth());
         ArrivalDateLabel->setSizePolicy(sizePolicy1);
-        QFont font5;
-        font5.setFamily(QString::fromUtf8("Roboto Mono"));
-        ArrivalDateLabel->setFont(font5);
+        QFont font6;
+        font6.setFamily(QString::fromUtf8("Roboto Mono"));
+        ArrivalDateLabel->setFont(font6);
 
         verticalLayout_13->addWidget(ArrivalDateLabel);
 
@@ -784,7 +795,7 @@ public:
         date2Label->setObjectName(QString::fromUtf8("date2Label"));
         sizePolicy1.setHeightForWidth(date2Label->sizePolicy().hasHeightForWidth());
         date2Label->setSizePolicy(sizePolicy1);
-        date2Label->setFont(font5);
+        date2Label->setFont(font6);
 
         verticalLayout_13->addWidget(date2Label);
 
@@ -792,7 +803,7 @@ public:
         cell->setObjectName(QString::fromUtf8("cell"));
         sizePolicy1.setHeightForWidth(cell->sizePolicy().hasHeightForWidth());
         cell->setSizePolicy(sizePolicy1);
-        cell->setFont(font5);
+        cell->setFont(font6);
 
         verticalLayout_13->addWidget(cell);
 
@@ -811,7 +822,7 @@ public:
         nameStaff->setObjectName(QString::fromUtf8("nameStaff"));
         sizePolicy1.setHeightForWidth(nameStaff->sizePolicy().hasHeightForWidth());
         nameStaff->setSizePolicy(sizePolicy1);
-        nameStaff->setFont(font3);
+        nameStaff->setFont(font4);
 
         horizontalLayout_7->addWidget(nameStaff);
 
@@ -819,7 +830,7 @@ public:
         priceStaff->setObjectName(QString::fromUtf8("priceStaff"));
         sizePolicy1.setHeightForWidth(priceStaff->sizePolicy().hasHeightForWidth());
         priceStaff->setSizePolicy(sizePolicy1);
-        priceStaff->setFont(font3);
+        priceStaff->setFont(font4);
         priceStaff->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
 
         horizontalLayout_7->addWidget(priceStaff);
@@ -834,7 +845,7 @@ public:
         sizePolicy6.setVerticalStretch(0);
         sizePolicy6.setHeightForWidth(descriptionStaff->sizePolicy().hasHeightForWidth());
         descriptionStaff->setSizePolicy(sizePolicy6);
-        descriptionStaff->setFont(font3);
+        descriptionStaff->setFont(font4);
         descriptionStaff->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop);
 
         verticalLayout_12->addWidget(descriptionStaff);
@@ -858,7 +869,7 @@ public:
         sizePolicy7.setVerticalStretch(0);
         sizePolicy7.setHeightForWidth(currentButton->sizePolicy().hasHeightForWidth());
         currentButton->setSizePolicy(sizePolicy7);
-        currentButton->setFont(font3);
+        currentButton->setFont(font4);
 
         verticalLayout_9->addWidget(currentButton);
 
@@ -869,7 +880,7 @@ public:
         sizePolicy8.setVerticalStretch(0);
         sizePolicy8.setHeightForWidth(ReceivedButton->sizePolicy().hasHeightForWidth());
         ReceivedButton->setSizePolicy(sizePolicy8);
-        ReceivedButton->setFont(font3);
+        ReceivedButton->setFont(font4);
 
         verticalLayout_9->addWidget(ReceivedButton);
 
@@ -877,7 +888,7 @@ public:
         RefusalButton->setObjectName(QString::fromUtf8("RefusalButton"));
         sizePolicy8.setHeightForWidth(RefusalButton->sizePolicy().hasHeightForWidth());
         RefusalButton->setSizePolicy(sizePolicy8);
-        RefusalButton->setFont(font3);
+        RefusalButton->setFont(font4);
 
         verticalLayout_9->addWidget(RefusalButton);
 
@@ -889,7 +900,7 @@ public:
         backButton->setObjectName(QString::fromUtf8("backButton"));
         sizePolicy7.setHeightForWidth(backButton->sizePolicy().hasHeightForWidth());
         backButton->setSizePolicy(sizePolicy7);
-        backButton->setFont(font3);
+        backButton->setFont(font4);
 
         verticalLayout_9->addWidget(backButton);
 
@@ -897,7 +908,7 @@ public:
         statsButton->setObjectName(QString::fromUtf8("statsButton"));
         sizePolicy7.setHeightForWidth(statsButton->sizePolicy().hasHeightForWidth());
         statsButton->setSizePolicy(sizePolicy7);
-        statsButton->setFont(font3);
+        statsButton->setFont(font4);
 
         verticalLayout_9->addWidget(statsButton);
 
@@ -910,7 +921,7 @@ public:
         deleteButton->setEnabled(false);
         sizePolicy7.setHeightForWidth(deleteButton->sizePolicy().hasHeightForWidth());
         deleteButton->setSizePolicy(sizePolicy7);
-        deleteButton->setFont(font3);
+        deleteButton->setFont(font4);
 
         verticalLayout_9->addWidget(deleteButton);
 
@@ -918,7 +929,7 @@ public:
         addButton->setObjectName(QString::fromUtf8("addButton"));
         sizePolicy7.setHeightForWidth(addButton->sizePolicy().hasHeightForWidth());
         addButton->setSizePolicy(sizePolicy7);
-        addButton->setFont(font3);
+        addButton->setFont(font4);
 
         verticalLayout_9->addWidget(addButton);
 
@@ -946,7 +957,7 @@ public:
         backToStaffButton->setObjectName(QString::fromUtf8("backToStaffButton"));
         sizePolicy8.setHeightForWidth(backToStaffButton->sizePolicy().hasHeightForWidth());
         backToStaffButton->setSizePolicy(sizePolicy8);
-        backToStaffButton->setFont(font3);
+        backToStaffButton->setFont(font4);
 
         verticalLayout_14->addWidget(backToStaffButton);
 
@@ -960,7 +971,7 @@ public:
 
         label_8 = new QLabel(adminPage);
         label_8->setObjectName(QString::fromUtf8("label_8"));
-        label_8->setFont(font3);
+        label_8->setFont(font4);
 
         gridLayout_2->addWidget(label_8, 0, 1, 1, 1);
 
@@ -972,7 +983,7 @@ public:
 
         label_6 = new QLabel(adminPage);
         label_6->setObjectName(QString::fromUtf8("label_6"));
-        label_6->setFont(font3);
+        label_6->setFont(font4);
 
         gridLayout_2->addWidget(label_6, 1, 1, 1, 1);
 
@@ -984,7 +995,7 @@ public:
 
         label_7 = new QLabel(adminPage);
         label_7->setObjectName(QString::fromUtf8("label_7"));
-        label_7->setFont(font3);
+        label_7->setFont(font4);
 
         gridLayout_2->addWidget(label_7, 2, 1, 1, 1);
 
@@ -1005,7 +1016,7 @@ public:
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 766, 20));
+        menubar->setGeometry(QRect(0, 0, 766, 26));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -1013,7 +1024,7 @@ public:
 
         retranslateUi(MainWindow);
 
-        stackedWidget->setCurrentIndex(6);
+        stackedWidget->setCurrentIndex(0);
 
 
         QMetaObject::connectSlotsByName(MainWindow);
@@ -1022,7 +1033,7 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "MainWindow", nullptr));
-        greetingsLabel->setText(QApplication::translate("MainWindow", "Pochita Box", nullptr));
+        greetingsLabel->setText(QApplication::translate("MainWindow", "\320\224\320\276\320\261\321\200\320\276 \320\277\320\276\320\266\320\260\320\273\320\276\320\262\320\260\321\202\321\214!", nullptr));
         staffButton->setText(QApplication::translate("MainWindow", "\320\224\320\273\321\217 \321\201\320\276\321\202\321\200\321\203\320\264\320\275\320\270\320\272\320\276\320\262", nullptr));
         userButton->setText(QApplication::translate("MainWindow", "\320\237\320\265\321\200\320\265\320\271\321\202\320\270\n"
 "\320\272 \320\277\320\276\320\273\321\203\321\207\320\265\320\275\320\270\321\216 \321\202\320\276\320\262\320\260\321\200\320\260", nullptr));

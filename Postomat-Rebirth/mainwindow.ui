@@ -18,7 +18,7 @@
     <item>
      <widget class="QStackedWidget" name="stackedWidget">
       <property name="currentIndex">
-       <number>6</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="mainPage">
        <property name="sizePolicy">
@@ -73,7 +73,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Pochita Box</string>
+             <string>Добро пожаловать!</string>
             </property>
             <property name="alignment">
              <set>Qt::AlignCenter</set>
@@ -301,6 +301,14 @@
                 <height>80</height>
                </size>
               </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
+              </property>
               <property name="maxLength">
                <number>1</number>
               </property>
@@ -322,6 +330,14 @@
                 <width>60</width>
                 <height>80</height>
                </size>
+              </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
               </property>
               <property name="maxLength">
                <number>1</number>
@@ -371,6 +387,14 @@
                 <height>80</height>
                </size>
               </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
+              </property>
               <property name="maxLength">
                <number>1</number>
               </property>
@@ -392,6 +416,14 @@
                 <width>60</width>
                 <height>80</height>
                </size>
+              </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
               </property>
               <property name="maxLength">
                <number>1</number>
@@ -462,6 +494,14 @@
                 <width>60</width>
                 <height>80</height>
                </size>
+              </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
               </property>
               <property name="maxLength">
                <number>1</number>
@@ -561,6 +601,14 @@
                 <width>60</width>
                 <height>80</height>
                </size>
+              </property>
+              <property name="font">
+               <font>
+                <family>Roboto</family>
+                <pointsize>36</pointsize>
+                <weight>75</weight>
+                <bold>true</bold>
+               </font>
               </property>
               <property name="maxLength">
                <number>1</number>
@@ -1783,7 +1831,7 @@
                <string notr="true">background-color: blue;</string>
               </property>
               <property name="text">
-               <string> </string>
+               <string/>
               </property>
              </widget>
             </item>
@@ -1806,7 +1854,7 @@
                <string notr="true">background-color: green;</string>
               </property>
               <property name="text">
-               <string>     </string>
+               <string/>
               </property>
              </widget>
             </item>
@@ -1829,7 +1877,7 @@
                <string notr="true">background-color: red;</string>
               </property>
               <property name="text">
-               <string> </string>
+               <string/>
               </property>
              </widget>
             </item>
@@ -1878,7 +1926,7 @@
      <x>0</x>
      <y>0</y>
      <width>766</width>
-     <height>20</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
