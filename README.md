@@ -26,6 +26,5 @@ ___
 Аксёнов Давид,
 Протасов Никита
 ## Контактные данные
-Аксёнов Давид:davidka.aksenov.2004@mail.ru
-__
+Аксёнов Давид:davidka.aksenov.2004@mail.ru,
 Протасов Никита: khoxgmai1@gmail.com
