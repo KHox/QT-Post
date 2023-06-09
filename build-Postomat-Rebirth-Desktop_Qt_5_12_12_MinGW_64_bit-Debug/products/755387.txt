@@ -1,0 +1,5 @@
+<name>Мужская футболка</name>
+<description>ТВОЕ мужская футболка с принтом, L, серая
+</description>
+<price>999 ₽</price>
+<link>:/img/img/ТВОЕ Мужская футболка с (принтом L, серая).png</link>

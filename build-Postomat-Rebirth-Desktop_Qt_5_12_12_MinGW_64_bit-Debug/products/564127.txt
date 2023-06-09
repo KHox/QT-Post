@@ -1,0 +1,5 @@
+<name>Кислородный очиститель BRANDFREE</name>
+<description>
+ ЕСО очиститель, отбеливатель 1 кг</description>
+<price>416 ₽</price>
+<link>:/img/img/Кислородный очиститель, отбеливатель, BRANDFREE 1кг 416р.jpg</link>

@@ -1,0 +1,5 @@
+<name>Ручки шариковые Roks М</name>
+<description>Набор 10 шт., синие
+</description>
+<price>500 ₽</price>
+<link>:/img/img/Ручки шариковые Roks M 500 НАБОР 10 шт СИНИЕ 500р.png</link>

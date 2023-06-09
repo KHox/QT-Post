@@ -1,0 +1,5 @@
+<name>Коврик для мыши Razer</name>
+<description>azer Firefly V2 с подсветкой, (чёрный)
+</description>
+<price>5 999 ₽</price>
+<link>:/img/img/Коврик для мыши Razer Firefly V2 с подсветкой чёрный 5999р..png</link>

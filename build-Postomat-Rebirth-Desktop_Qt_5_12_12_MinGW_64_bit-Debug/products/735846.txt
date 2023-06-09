@@ -1,0 +1,5 @@
+<name>Dobby LEGO Technic Bugatti Chiron </name>
+<description>Конструктор для детей
+</description>
+<price>36 399 ₽</price>
+<link>:/img/img/LEGO Technic Bugatti Chiron 36 399 р.jpg</link>

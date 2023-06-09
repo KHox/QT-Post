@@ -1,0 +1,5 @@
+<name>Внешний аккумулятор Maimi</name>
+<description>
+аккумулятор для телефона Maimi 20000 мАч (чёрный)</description>
+<price>1 390 ₽</price>
+<link>:/img/img/Внешний аккумулятор для телефона Maimi 20000 мАч 1390р.png</link>

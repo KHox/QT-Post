@@ -1,0 +1,5 @@
+<name>Ювелирное кольцо</name>
+<description>Ювелирное золотое кольцо Moon Kiss 585 с бриллиантом
+</description>
+<price>78 400 ₽</price>
+<link>:/img/img/Ювелирное золотое кольцо Moon Kiss 585 с бриллиантом 78 400р.jpg</link>

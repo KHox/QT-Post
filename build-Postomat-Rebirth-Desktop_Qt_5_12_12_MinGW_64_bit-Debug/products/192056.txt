@@ -1,0 +1,5 @@
+<name>Велосипед Richiesto</name>
+<description>26' литые диски (белый)
+</description>
+<price>18 987 ₽</price>
+<link>:/img/img/Велосипед Richiesto 26 литые диски (белый) 18 987р.png</link>

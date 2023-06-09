@@ -1,0 +1,5 @@
+<name>Свитшот Stone Island</name>
+<description>цвет хаки, XL
+</description>
+<price>7 000 ₽</price>
+<link>:/img/img/Свитшот Stone Island (хаки, XL).png</link>

@@ -1,0 +1,5 @@
+<name>Рюкзак Adidas</name>
+<description>цвет(городской камуфляж) 20 л.
+</description>
+<price>4 809 ₽</price>
+<link>:/img/img/Рюкзак Adidas (городской камуфляж) 4 809р.png</link>

@@ -1,4 +1,4 @@
-QT       += core gui
+QT       += core gui printsupport
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -9,16 +9,35 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    auth.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    product.cpp \
+    productinfo.cpp \
+    productwindow.cpp \
+    qcustomplot.cpp \
+    receiveddata.cpp \
+    server.cpp
 
 HEADERS += \
-    mainwindow.h
+    auth.h \
+    mainwindow.h \
+    product.h \
+    productinfo.h \
+    productwindow.h \
+    qcustomplot.h \
+    receiveddata.h \
+    server.h
 
 FORMS += \
-    mainwindow.ui
+    auth.ui \
+    mainwindow.ui \
+    productwindow.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+RESOURCES += \
+    resources.qrc

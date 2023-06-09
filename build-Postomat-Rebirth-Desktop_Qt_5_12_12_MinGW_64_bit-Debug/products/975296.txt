@@ -1,0 +1,5 @@
+<name>Чипсы цельнозерновые</name>
+<description>Чипсы цельнозерновые без глютeна Snaq Fabriq , 6шт х 50г.
+</description>
+<price>358 ₽</price>
+<link>:/img/img/Чипсы цельнозерновые без глютeна Snaq Fabriq , 6шт х 50г 358р.png</link>

@@ -1,0 +1,14 @@
+release/auth.o
+release/main.o
+release/mainwindow.o
+release/product.o
+release/productinfo.o
+release/productwindow.o
+release/qcustomplot.o
+release/receiveddata.o
+release/server.o
+release/qrc_resources.o
+release/moc_auth.o
+release/moc_mainwindow.o
+release/moc_productwindow.o
+release/moc_qcustomplot.o

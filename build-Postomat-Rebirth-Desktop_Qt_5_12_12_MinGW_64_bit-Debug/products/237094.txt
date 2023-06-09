@@ -1,0 +1,5 @@
+<name>Значки аниме</name>
+<description>
+аниме Великий из бродячих псов XL</description>
+<price>650 ₽</price>
+<link>:/img/img/Значки аниме Великий из бродячих псов 650₽.png</link>

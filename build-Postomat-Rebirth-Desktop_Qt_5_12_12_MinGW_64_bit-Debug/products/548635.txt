@@ -1,0 +1,5 @@
+<name>Redragon Игровая мышка беспроводная с подсветкой Griffin</name>
+<description>(4000 dpi чёрная)
+</description>
+<price>1 999 ₽</price>
+<link>:/img/img/Redragon Игровая мышка беспроводная с подсветкой Griffin (4000 dpi чёрная) 1999р.jpg</link>

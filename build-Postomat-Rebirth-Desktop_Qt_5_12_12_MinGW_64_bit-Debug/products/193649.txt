@@ -1,0 +1,5 @@
+<name>"Вкусы мира" Чипсы</name>
+<description>Чипсы кокосовые, натуральные
+</description>
+<price>823 ₽</price>
+<link>:/img/img/Вкусы мира Чипсы кокосовые натуральные 823 р.jpg</link>

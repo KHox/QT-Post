@@ -1,0 +1,5 @@
+<name>Чехол для телефона</name>
+<description>Чехол deppa для iPhone 7, (Fatality, чёрный)
+</description>
+<price>516 ₽</price>
+<link>:/img/img/Чехол deppa iPhone 7 Fatality 516₽ (чёрный).png</link>

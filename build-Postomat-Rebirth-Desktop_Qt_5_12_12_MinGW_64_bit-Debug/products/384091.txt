@@ -1,0 +1,5 @@
+<name>Клавиатура игровая Redragon</name>
+<description>Клавиатура механическая игровая Redragon Anivia RGB ((60%) чёрная)
+</description>
+<price>2 479 ₽</price>
+<link>:/img/img/Клавиатура механическая игровая Redragon Anivia RGB ((60%) чёрная) 2 479р.png</link>

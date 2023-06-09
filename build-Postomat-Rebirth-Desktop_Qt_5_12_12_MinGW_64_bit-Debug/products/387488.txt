@@ -1,0 +1,5 @@
+<name>Мармелад жевательный</name>
+<description>кислый, Bebeto (Ленты)
+</description>
+<price>863 ₽</price>
+<link>:/img/img/Мармелад жевательный кислый Bebeto (Ленты) 1,2кг 863р.png</link>

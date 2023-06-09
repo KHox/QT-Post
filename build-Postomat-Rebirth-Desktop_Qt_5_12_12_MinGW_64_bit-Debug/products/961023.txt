@@ -1,0 +1,5 @@
+<name>Гель для стирки</name>
+<description>SYNERGETIC Гель для стирки 2в1 c пятновыводителем эко концентрат, 5 л.
+</description>
+<price>1 161 ₽</price>
+<link>:/img/img/средство.jpg</link>

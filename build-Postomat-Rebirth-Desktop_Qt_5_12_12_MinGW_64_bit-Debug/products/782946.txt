@@ -1,0 +1,5 @@
+<name>Зимняя шапка</name>
+<description>шапка бини черного цвета
+</description>
+<price>2 000 ₽</price>
+<link>:/img/img/Зимняя шапка бини черного цвета 2000р.png</link>

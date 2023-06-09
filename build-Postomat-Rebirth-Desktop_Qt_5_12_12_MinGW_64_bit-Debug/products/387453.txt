@@ -1,0 +1,5 @@
+<name>Кроссовки Adidas</name><description>
+Adidas originals adi 2000 purple black white
+</description>
+<price>5 080 ₽</price>
+<link>:/img/img/Кроссовки Adidas originals adi 2000 purple black white 5080р.png</link>

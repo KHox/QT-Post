@@ -1,0 +1,5 @@
+<name>Футболка женская</name>
+<description>Annemore Футболка базовая хлопковая (белая, L)
+</description>
+<price>1 835 ₽</price>
+<link>:/img/img/футболка.jpg</link>

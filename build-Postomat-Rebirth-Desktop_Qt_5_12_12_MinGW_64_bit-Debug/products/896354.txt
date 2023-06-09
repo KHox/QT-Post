@@ -1,0 +1,5 @@
+<name>Чипсы картофельные</name>
+<description>MEGA CHIPS Чипсы картофельные вкуc тайского перца 25 шт.
+</description>
+<price>1 807 ₽</price>
+<link>:/img/img/чипсы.jpg</link>

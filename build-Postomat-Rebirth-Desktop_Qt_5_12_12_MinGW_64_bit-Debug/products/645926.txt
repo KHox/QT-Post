@@ -1,0 +1,5 @@
+<name>Dobby Socks Носки Человек-Бензопила </name>
+<description>Носки мужсике размер(40-42)
+</description>
+<price>422 ₽</price>
+<link>:/img/img/Dobby Socks Носки Человек-Бензопила (40-42) 422 р.png</link>

@@ -1,0 +1,5 @@
+<name>Чипсы Lays</name>
+<description>Чипсы Lays STAX (Ребрышки барбекю) 9шт.
+</description>
+<price>1 479 ₽</price>
+<link>:/img/img/Чипсы Lays STAX (Ребрышки барбекю) 9шт 1 479р.jpg</link>

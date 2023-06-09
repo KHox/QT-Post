@@ -1,0 +1,5 @@
+<name>Смартфон POCO X3 Pro</name>
+<description>6/128GB,(черный фантом)
+</description>
+<price>21 990 ₽</price>
+<link>:/img/img/Смартфон POCO X3 Pro 6.128GB (черный фантом) 21 990р.png</link>

@@ -1,0 +1,5 @@
+<name>Сироп для кофе</name>
+<description>Сироп Соленая Карамель для кофе Barinoff
+</description>
+<price>418 ₽</price>
+<link>:/img/img/Сироп Соленая Карамель для кофе Barinoff 418р.jpg</link>
