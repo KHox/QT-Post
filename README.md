@@ -18,8 +18,8 @@ ___
 - Для просмотра текущиъ товаров и другой статистики использовать QPushButton в интерфейсе для сотрудников.
 ## Тестирование
 Тестирование программы представленно в видео на YouTube:  
-https://youtu.be/jJ5EKzHgNZo  
-https://youtu.be/3kS4wI0RTH8
+Аксёнов Давид: https://youtu.be/jJ5EKzHgNZo,  
+Протасов Никита: https://youtu.be/3kS4wI0RTH8
 ## Ссылки
 Коммивояжёр Аксёнова Давида: https://github.com/Imposter2004/Traveling-salesman  
 Коммивояжёр Протасова Никиты: https://github.com/KHox/QT-TS
